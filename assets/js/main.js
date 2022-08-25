@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $(".owl-carousel").owlCarousel({
+        items:2,
+        margin:20,
+        loop:true,
+        autoplay:true,
+        autoplaySpeed:3
+    });
+  });
