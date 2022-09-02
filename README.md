@@ -9,3 +9,7 @@
   ![2](https://user-images.githubusercontent.com/106487998/188137865-91f4b3d6-c295-4e4a-aff6-fb87456e4803.PNG)
   
   ![3](https://user-images.githubusercontent.com/106487998/188137871-23844f26-6c5f-4def-ae5a-a985c8cef332.PNG)
+
+## Navbar Sections
+  ## About 
+  
